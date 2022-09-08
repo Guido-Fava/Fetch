@@ -1,0 +1,12 @@
+
+.imagen{
+    text-align: center;
+    width: 100%;
+    display: flex;
+    height: auto
+}
+
+img {
+    width: 100%;
+    height: auto;
+    }
